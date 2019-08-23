@@ -29,3 +29,4 @@ const BubblePage = props => {
 };
 
 export default BubblePage;
+
